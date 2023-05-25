@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;0,900;1,400&family=Roboto:wght@700&display=swap');
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+#titulo {    
+    font-weight: 900;
+    text-align: center;
+    
+}
+
+strong {
+    font-weight: 700;
+}
+
+#descricao{}
+
+#habilidades {}
+
+img {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+a {
+    color: white;
+}
+
+.skill_list {
+    font-size: 1.2em;
+}
+
+.header_footer {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    height: auto;
+    padding: 7px;         
+}
+
+footer {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background-color: rgb(6,57,112);
+    color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -27px;
+    margin-bottom: 0px;
+}
